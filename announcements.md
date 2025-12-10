@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Announcements
+title: 课程通知
 nav_exclude: true
 description: A feed containing all of the class announcements.
 ---

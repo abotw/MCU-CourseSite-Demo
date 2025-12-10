@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: 课程安排
 description: The weekly event schedule.
 ---
 
