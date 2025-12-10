@@ -17,7 +17,7 @@ title: 单片机原理与应用
 tagline: 《单片机原理与应用》课程主页
 description: 《单片机原理与应用》课程主页
 author: 
-baseurl: '/MCU-CouseSite-Demo' # the subpath of your site, e.g. /blog
+baseurl: '/MCU-CourseSite-Demo' # the subpath of your site, e.g. /blog
 url: 'https://abotw.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
